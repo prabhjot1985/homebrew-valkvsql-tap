@@ -1,8 +1,8 @@
 cask "valkvsql" do
-  version "0.1.0"
-  sha256 "2215b3c7a18e092b98f030795bc43373599082e672006faa594a406b365399e2"
+  version "0.1.1"
+  sha256 "59cd3aca4561f685a83d2bb45beeeaec2f2bfc60792a46069c38fb283221e30c"
 
-  url "https://github.com/prabhjot1985/valkvsql-releases/releases/download/v0.1.0/ValkvSQL_0.1.0_aarch64.dmg",
+  url "https://github.com/prabhjot1985/valkvsql-releases/releases/download/v0.1.1/ValkvSQL_0.1.0_aarch64.dmg",
       verified: "github.com/prabhjot1985/valkvsql-releases/"
   name "ValkvSQL"
   desc "Desktop database client"
